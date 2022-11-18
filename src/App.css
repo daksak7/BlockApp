@@ -1,0 +1,22 @@
+body {
+  background-color: black;
+}
+
+#sidebarMenu {
+  height: 97vh;
+  background-color: black;
+}
+.portfolio-card {
+  width: 33%;
+  height: 45vh;
+}
+.portfolio-item {
+}
+
+.App {
+  background-color: black;
+}
+
+.content-container * {
+  color: white;
+}
